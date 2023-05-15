@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: Arial;
+}
+
+#logo{
+    size: 999px;
+}
+
+#titulo{
+    color: white;
+}
