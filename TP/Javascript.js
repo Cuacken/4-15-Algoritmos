@@ -28,8 +28,8 @@ if (valores[3].length > valores[4].length) {
 console.log(" ");
 //3)
 function ej3(){
-var numero1 = 5;
-var numero2 = 8;
+var numero1 = document.getElementById("numero1").value;
+var numero2 = document.getElementById("numero2").value;
 if(numero1<numero2){
     console.log("numero1 no es mayor que numero2");
 }
